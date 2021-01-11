@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Panda.png-34b9735735599519c77f4000b245773d.stex"
+path="res://.import/Panda.png-b34eea74ff7d7076142b125fa28b1caf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Panda.png"
-dest_files=[ "res://.import/Panda.png-34b9735735599519c77f4000b245773d.stex" ]
+source_file="res://Assets/Panda.png"
+dest_files=[ "res://.import/Panda.png-b34eea74ff7d7076142b125fa28b1caf.stex" ]
 
 [params]
 

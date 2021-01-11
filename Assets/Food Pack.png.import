@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Food Pack.png-2b324b8b54cb48c8f13462577d709f8e.stex"
+path="res://.import/Food Pack.png-b1183c6a3d1068c6110be460875f3f6b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Food Pack.png"
-dest_files=[ "res://.import/Food Pack.png-2b324b8b54cb48c8f13462577d709f8e.stex" ]
+source_file="res://Assets/Food Pack.png"
+dest_files=[ "res://.import/Food Pack.png-b1183c6a3d1068c6110be460875f3f6b.stex" ]
 
 [params]
 

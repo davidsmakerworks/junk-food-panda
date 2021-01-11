@@ -10,6 +10,8 @@ onready var panda_sprite: AnimatedSprite = $AnimatedSprite
 func _physics_process(delta: float) -> void:
     # var vel: Vector2 = Vector2()
 
+    vel = vel * 0.98
+
     if Input.is_action_pressed("move_up"):
         vel.y -= 0.05
     if Input.is_action_pressed("move_down"):
